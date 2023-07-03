@@ -1,15 +1,27 @@
 {
-  "name": "the-lit-programmer",
-  "displayName": "the lit programmer",
-  "description": "A package of extensions for a new developer starting with lit",
-  "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.79.0"
-  },
-  "categories": [
-    "Extension Packs"
-  ],
-  "extensionPack": [ 
-    "publisher.extensionName"
-  ]
+    "name": "the-lit-programmer",
+    "displayName": "the lit programmer",
+    "description": "A package of extensions for a new developer starting with lit",
+    "version": "0.0.1",
+    "homepage": "https://github.com/pMattheew/the-lit-programmer",
+    "engines": {
+        "vscode": "^1.79.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/pMattheew/the-lit-programmer.git"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "shd101wyy.markdown-preview-enhanced",
+        "esbenp.prettier-vscode",
+        "cschlosser.doxdocgen",
+        "runem.lit-plugin",
+        "PKief.material-icon-theme",
+        "vincaslt.highlight-matching-tag",
+        "christian-kohler.path-intellisense",
+        "christian-kohler.npm-intellisense"
+    ]
 }
