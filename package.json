@@ -1,0 +1,15 @@
+{
+  "name": "the-lit-programmer",
+  "displayName": "the lit programmer",
+  "description": "A package of extensions for a new developer starting with lit",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "publisher.extensionName"
+  ]
+}
