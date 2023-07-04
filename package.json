@@ -23,6 +23,7 @@
         "vincaslt.highlight-matching-tag",
         "christian-kohler.path-intellisense",
         "christian-kohler.npm-intellisense",
-        "ritwickdey.LiveServer"
+        "ritwickdey.LiveServer",
+        "cipchk.cssrem"
     ]
 }
