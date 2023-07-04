@@ -2,7 +2,7 @@
     "name": "the-lit-programmer",
     "displayName": "the lit programmer",
     "description": "A package of extensions for a new developer starting with lit",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "homepage": "https://github.com/pMattheew/the-lit-programmer",
     "engines": {
         "vscode": "^1.79.0"
@@ -22,6 +22,7 @@
         "PKief.material-icon-theme",
         "vincaslt.highlight-matching-tag",
         "christian-kohler.path-intellisense",
-        "christian-kohler.npm-intellisense"
+        "christian-kohler.npm-intellisense",
+        "ritwickdey.LiveServer"
     ]
 }
