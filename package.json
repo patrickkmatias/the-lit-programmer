@@ -2,6 +2,7 @@
     "name": "the-lit-programmer",
     "displayName": "the lit programmer",
     "description": "A package of extensions for a new developer starting with lit",
+    "publisher": "pmattheew",
     "version": "0.0.3",
     "homepage": "https://github.com/pMattheew/the-lit-programmer",
     "engines": {
