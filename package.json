@@ -4,7 +4,7 @@
     "description": "A package of extensions for a new developer starting with lit",
     "publisher": "pmattheew",
     "icon": "lit.png",
-    "version": "0.0.7",
+    "version": "0.0.8",
     "homepage": "https://github.com/pMattheew/the-lit-programmer",
     "engines": {
         "vscode": "^1.65.0"
@@ -17,15 +17,17 @@
         "Extension Packs"
     ],
     "extensionPack": [
-        "shd101wyy.markdown-preview-enhanced",
-        "esbenp.prettier-vscode",
-        "cschlosser.doxdocgen",
         "runem.lit-plugin",
-        "PKief.material-icon-theme",
-        "vincaslt.highlight-matching-tag",
+        "lit.lit-snippets",
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
         "christian-kohler.path-intellisense",
         "christian-kohler.npm-intellisense",
+        "shd101wyy.markdown-preview-enhanced",
+        "PKief.material-icon-theme",
+        "cschlosser.doxdocgen",
         "ritwickdey.LiveServer",
+        "vincaslt.highlight-matching-tag",
         "cipchk.cssrem"
     ]
 }
